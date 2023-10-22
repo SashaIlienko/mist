@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pizza\nPasta\nIce Cream
+=======
+Inception\nInterstellar\nThe Dark Knight
+>>>>>>> movies
